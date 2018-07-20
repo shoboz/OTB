@@ -1,0 +1,36 @@
+#main_top {
+	background-color:	#40E0D0;
+	height: 50px;
+}
+
+#main_nav {
+	background-color: #0080ff;
+	padding: 5px;
+	font-family: serif;
+	font-size: 17px;
+	font-weight: normal;
+	font-variant: small-caps;
+
+}
+
+#main_nav li {
+	padding-right: 20px;
+}
+ 
+#main_nav a:hover {
+	border-bottom: 1px solid #40E0D0;
+	color: #40E0D0;
+	transition: 0.5s;
+}
+
+#contact {
+	background-color: #0080ff;
+	height: 400px;
+	padding: 60px;
+}
+
+.main {
+	text-align: center;
+	padding: 40px;
+	border: 2px solid red;
+}
